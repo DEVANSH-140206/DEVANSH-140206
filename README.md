@@ -36,12 +36,6 @@ I'm also studying Japanese (targeting JLPT N2 by graduation).
 
 ---
 
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/devansh-chaubey-6b8625359)
-
----
-
 *"Start where you are. Use what you have. Do what you can."*
 
 
