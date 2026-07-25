@@ -1,7 +1,7 @@
 # Hi, I'm Devansh Chaubey 👋
 
 🎓 B.Tech Computer Science (Cybersecurity Specialization)  
-🏫 VIT Bhopal | Year 1, Semester 2  
+🏫 VIT Bhopal | Year 2, Semester 3
 🎂 Born: February 14, 2006  
 🌏 Goal: Cybersecurity Professional in Japan 🇯🇵  
 
@@ -9,7 +9,7 @@
 
 ## 🛡️ About Me
 
-I'm a first-year cybersecurity student building my skills from the ground up.  
+I'm a second-year cybersecurity student building my skills from the ground up.  
 Currently learning Python, Linux, and Networking as my foundation.  
 I'm also studying Japanese (targeting JLPT N2 by graduation).
 
